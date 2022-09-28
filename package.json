@@ -9,6 +9,8 @@
   },
   "private": true,
   "dependencies": {
+    "@solana/spl-token": "^0.3.5",
+    "@solana/web3.js": "^1.62.1",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
